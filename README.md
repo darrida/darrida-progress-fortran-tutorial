@@ -46,6 +46,7 @@
 ### Variables
 
 - Notes:
+    - Created and ran ```variables```, ```read_value```, ```float```, ```float_c_inter```, and ```arithmetic```
     - Always interesting to see how individual languages initialize and set variables.
     - Interested in how variables are inserted into the middle of strings rather than just at the end.
     - Also interested in how a variable can be inserted without a seemingly arbitrary number of spaces before it (I'm sure that there is either a concrete reason, or that it's just something strange when printing to stdout)
@@ -55,5 +56,6 @@
 ### Arrays and strings
 
 - Notes:
+    - Created and ran ```arrays```, ```array_slice```, ```string```, ```allocatable```, and ```allocatable_string```
     - Was able to connect the general idea of a declared array vs an allocatable array loosely with the concept of tuples and lists. They aren't the same though. Alloctable arrays seem to still be allocated a static length - it's just not done so when initialized (though, I'm familiar with the vague notion that lists in Python are actuall allocated a specific length that's more than what the code is current asking for and it has to be rebuilt in the background whenever that length is exceeded)
     - Strings seem pretty standard
