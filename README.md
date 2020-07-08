@@ -1,5 +1,5 @@
 # darrida-progress-fortran-tutorial
-- Repo to store my progress in the fortran-lang.org Fortran Tutorial
+- Repo to store my progress in the fortran-lang.org Fortran Tutorial (https://fortran-lang.org/learn/quickstart)
 
 ## Basic Tutorials in Progress
 
